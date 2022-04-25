@@ -40,3 +40,4 @@ class ScoreALL():
 
     #         self.roc_curve = roc_curve(y_test,pred)
     #         self.roc_auc_score = roc_auc_score(y_test,pred)
+    #
