@@ -35,3 +35,4 @@ class RegALL():
         self.elar.fit(X_train, y_train)
         self.pred = self.elar.predict(X_test)
         return self.pred
+        #
